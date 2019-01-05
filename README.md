@@ -21,7 +21,7 @@ For local installation
 ```sh
 $ yarn add rn-log-ios
 # or
-$ npm install -g --save rn-log-ios
+$ npm install --save rn-log-ios
 ```
 
 ## Usage
