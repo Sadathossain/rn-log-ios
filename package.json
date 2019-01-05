@@ -1,0 +1,28 @@
+{
+  "name": "rn-log-ios",
+  "version": "1.0.1",
+  "description": "React native ios log output for Xcode 10",
+  "main": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sadathossain/rn-log-ios.git"
+  },
+  "keywords": [
+    "ios"
+  ],
+  "author": "Sadat Hossain",
+  "license": "ISC",
+  "bin": {
+    "rn-log-ios": "./cli.js"
+  },
+  "bugs": {
+    "url": "https://github.com/Sadathossain/rn-log-ios/issues"
+  },
+  "homepage": "https://github.com/Sadathossain/rn-log-ios#readme",
+  "dependencies": {
+    "moment": "^2.23.0"
+  }
+}
