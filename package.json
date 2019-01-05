@@ -1,6 +1,6 @@
 {
   "name": "rn-log-ios",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "React native ios log output for Xcode 10",
   "main": "cli.js",
   "scripts": {
